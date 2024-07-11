@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/jcserrano050105">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/pfp-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4 - Feature Display</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A platform that showcases features and updates. Explore my collection of pages
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?jcserrano050105/WD-Seatwork-4_SERRANO )
 
 ---
 
@@ -60,17 +60,17 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - The project is a Feature Display Website that showcases distinct design layouts and features using pure HTML and CSS. It consists of multiple pages, each dedicated to a different theme or subject, and includes various sections highlighting specific content through engaging visuals and interactive elements.
+- Whats the purpose - The primary purpose of the project is to demonstrate the use of HTML and CSS to create visually appealing and functionally rich web pages. The website aims to showcase the capabilities of these core web technologies in building interactive and responsive user experiences.
+- What are key components - The project features a main entry point with a video background and navigation links, providing an engaging introduction to the website. The website also includes two distinct feature pages. Feature Page 1 focuses on Honda City Hatchback, with sections highlighting the features of it . Feature Page 2 is dedicated to the Nike Shoes , showcasing the shoe features.
+- What technology used and how it is used - The website is built using HTML to create the structure. This defines the different parts of the page, like headings, sections, paragraphs, and navigation links. The content is organized in a logical way. CSS is then used to style the HTML elements. This allows for visually appealing layouts, and advanced techniques like flexbox and grid are used to make the design responsive. Transitions and animations are also included to enhance the interactivity and overall user experience of the website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Landing Page
+- Features Page
+- Header and Footer
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -96,8 +96,8 @@ WD-ProjectName
 |   |   └─ style.css
 |   └─ img
 |   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+|
+|
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -105,8 +105,7 @@ WD-ProjectName
 |     |  |  └─ style.css
 |     |  └─ img
 |     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
+|     |
 |     └─ index.html
 └─ index.html
 └─ readme.md
@@ -117,4 +116,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Google Font | For designing the letters | https://fonts.google.com/icons?icon.query=facebook|
+|Font Awesome| For the icons             | https://fontawesome.com/search?q=facebook&o=r     |
+|Pinterest   | For the pictures          | https://ph.pinterest.com/pin/286119382565240637/  |

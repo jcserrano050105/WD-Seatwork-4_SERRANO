@@ -49,7 +49,7 @@ section.container{
   & a{
       text-decoration: none;
       color: white;
-      background-color: #2140cc;
+      background-color: #dd250d;
       border-radius: 5px;
       padding: 0.5rem 1rem;
       font-weight: bold;
@@ -59,3 +59,4 @@ section.container{
       }
   }
 }
+
